@@ -1,0 +1,414 @@
+*{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    text-decoration: none;
+    box-sizing: border-box;
+}
+
+nav {
+    width: 100%;
+    height: 747px;
+    background-image: url(./headr_img.png);
+    background-size: cover;
+    margin: 0;
+    padding: 0;
+
+}
+
+nav .glabal .one {
+    width: 100%;
+    height: 30px;
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+    color: white;
+    position: relative;
+    top: 15px;
+
+}
+
+nav .glabal .one .bir {
+    position: relative;
+    right: 430px;
+}
+
+nav .glabal .one .jet {
+    display: flex;
+    position: relative;
+    left: 200px;
+    gap: 40px;
+}
+
+nav .two {
+    width: 100%;
+    height: 717px;
+}
+
+nav .two .redy {
+    width: 50%;
+    height: 30%;
+    text-align: center;
+    position: relative;
+    top: 100px;
+
+
+}
+
+nav .two .redy h1 {
+    color: #B78601;
+    font-size: 34px;
+}
+
+nav .two .redy h2 {
+    color: white;
+    font-size: 28px;
+    font-family: "Roboto";
+}
+
+nav .two .redy h3 {
+    color: white;
+    font-size: 20px;
+}
+
+.redy button{
+margin-top: 100px;
+
+
+}
+
+.container{
+    max-width: 1260px;
+    margin: auto;
+    padding: 0px 20px;
+    margin: auto;
+  
+    
+}
+.img-ombor{
+    gap: 20px;
+}
+.cards{
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+    
+    
+}
+
+
+.import{
+margin-left: 100px;
+
+
+
+}
+
+
+.cards{
+    max-width: 1100px;
+    min-height: 500px;
+    background-color: black;
+    padding: 100px 40px;
+    margin: auto;
+}
+.site-h2{
+    color: #FFFFFF;
+    
+}
+.jentira{
+    color: #FFFFFF;
+}
+.site-p{
+    color: #FFFFFF;
+}
+.containera{
+    max-width: 1700px;
+    min-height: 600px;
+    background-color: rgb(255, 255, 255);
+   
+    
+}
+
+.Отзывы {
+    max-width: 1550px;
+    height: 730px;
+    background-color: #181818;
+}
+
+
+.Отзывы_box h1 {
+    font-weight: 400;
+    font-size: 22px;
+    line-height: 25px;
+    color: #FFFFFF;
+    margin-left: 100px;
+    padding-top: 100px;
+}
+
+.Отзывы_cards {
+    display: flex;
+    gap: 10px;
+    padding-top: 100px;
+    margin-left: 300px;
+}
+
+.card1 h4 {
+    padding-left: 40px;
+    margin-top: 20px;
+    font-weight: 400;
+    font-size: 22px;
+    line-height: 25px;
+    align-items: center;
+    color: #FFFFFF;
+}
+
+.card1 p {
+    padding-top: 30px;
+    font-weight: 400;
+    font-size: 17px;
+    line-height: 29px;
+    align-items: center;
+    color: #FFFFFF;
+}
+
+.card2 h4 {
+
+    padding-left: 40px;
+    margin-top: 20px;
+    font-weight: 400;
+    font-size: 22px;
+    line-height: 25px;
+    align-items: center;
+    color: #FFFFFF;
+
+}
+
+.card2 p {
+    padding-top: 30px;
+    font-weight: 400;
+    font-size: 17px;
+    line-height: 29px;
+    align-items: center;
+    color: #FFFFFF;
+}
+
+.card3 h4 {
+
+    padding-left: 40px;
+    margin-top: 20px;
+    font-weight: 400;
+    font-size: 22px;
+    line-height: 25px;
+    align-items: center;
+    color: #FFFFFF;
+
+}
+
+.card3 p {
+    padding-top: 30px;
+    font-weight: 400;
+    font-size: 17px;
+    line-height: 29px;
+    align-items: center;
+    color: #FFFFFF;
+}
+
+
+.Плитки_cards {
+    display: flex;
+    gap: 20px;
+    justify-content: center;
+
+}
+
+.card1 {
+    background-color: #181818;
+
+}
+
+.card2 {
+    background-color: #181818;
+}
+
+.card3 {
+    background-color: #181818;
+
+
+}
+
+.card4 {
+    background-color: #181818;
+}
+
+
+.card1 h4 {
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 21px;
+    color: #FFFFFF;
+}
+
+.card1 p{
+font-weight: 400;
+font-size: 14px;
+line-height: 20px;
+color: #FFFFFF;
+margin-left: 30px;
+}
+
+.card2 h4 {
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 21px;
+    color: #FFFFFF;
+}
+
+.card2 p{
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 20px;
+    color: #FFFFFF;
+    margin-left: 30px;
+    }
+
+.card3 h4 {
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 21px;
+    color: #FFFFFF;
+}
+
+.card3 p{
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 20px;
+    color: #FFFFFF;
+    margin-left: 30px;
+    }
+
+
+
+.card4 h4 {
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 21px;
+    color: #FFFFFF;
+    margin-left: 30px;
+}
+
+.card4 p{
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 20px;
+    color: #FFFFFF;
+    margin-left: 30px;
+    }
+
+    .Плитки h1{
+font-weight: 400;
+font-size: 22px;
+line-height: 25px;
+padding-top: 40px;
+padding: 40px;
+margin-left: 50px;
+    }
+
+.gread {
+    width: 100%;
+    height: 887px;
+}
+
+.gread .redy {
+    width: 90%;
+    height: 90%;
+    position: relative;
+    top: 50px;
+    left: 205px;
+    display: flex;
+    gap: 40px;
+
+
+}
+
+.gread .redy .one img {
+    width: 341px;
+    height: 389px;
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 30px;
+}
+
+.gread .redy .two img {
+    width: 341px;
+    height: 389px;
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 30px;
+}
+
+.gread .redy .thrue img {
+    width: 341px;
+    height: 389px;
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 30px;
+}
+
+footer {
+    width: 100%;
+    height: 833px;
+    background-image: url(./i.png);
+}
+
+footer .leter {
+    width: 70%;
+    height: 50%;
+    position: relative;
+    top: 250px;
+    left: 100px;
+
+}
+
+nav .two button {
+    background: transparent;
+    width: 244px;
+    height: 59px;
+
+}
+
+nav .two .redy button {
+    border-radius: 15%;
+    color: white;
+    font-size: 20px;
+}
+
+
+
+@media screen and (max-width:920px) {
+    .cards{
+        grid-template-columns: auto auto auto auto;
+    } 
+}
+@media screen and (max-width:720px) {
+   .cards{
+    grid-template-columns: auto auto auto;
+   }
+}
+@media screen and (max-width:520px) {
+    .cards{
+        grid-template-columns: auto auto;
+    }
+}
+@media screen and (max-width:420px) {
+    .cards{
+        grid-template-columns: auto;
+    }
+}
+
+@media screen and (max-width:600px){
+    .Плитки_cards{
+flex-wrap: wrap;
+
+
+    }
+}
